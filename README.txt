@@ -36,3 +36,8 @@ If password protection is required, configure it in your hosting settings.
 
 Optional search/share metadata: add canonical, og:url, and og:image tags to
 index.html using your actual domain. No previous hosting URL is included.
+
+PHOTO
+Keep saleem-portfolio.jpeg in the same folder as index.html.
+The hero section displays this image with responsive framing.
+To replace it later, use the same filename.
